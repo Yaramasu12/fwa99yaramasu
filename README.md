@@ -1,2 +1,2 @@
 # fwa99yaramasu
-Creating a server
+https://fwa99yaramasu.herokuapp.com/
